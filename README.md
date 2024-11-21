@@ -24,5 +24,5 @@ A mobile-first weather app built with React Native and Expo, providing a seamles
     ```
 3. Run the app:
     ```
-    expo start
+    npx expo start
     ```
